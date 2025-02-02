@@ -82,7 +82,7 @@
 				};
 			};
 			buildConfigurationList = 065AD75D2D2C588800E180FD /* Build configuration list for PBXProject "KazakhstanMapExample" */;
-			compatibilityVersion = "Xcode 15.0";
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
