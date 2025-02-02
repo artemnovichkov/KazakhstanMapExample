@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: macOS-latest
+    runs-on: macos-15-large
     steps:
       - uses: actions/checkout@v2
       - name: Build
