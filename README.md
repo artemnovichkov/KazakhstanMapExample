@@ -8,7 +8,7 @@ An example project for [Drawing maps with Swift Charts](https://www.artemnovichk
 
 ## Author
 
-Artem Novichkov, https://www.artemnovichkov.com/
+Artem Novichkov, https://artemnovichkov.com/
 
 ## License
 
